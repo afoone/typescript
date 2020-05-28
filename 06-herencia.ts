@@ -30,7 +30,7 @@ class Persona3 implements PersonaBase{
 
 }
 
-class Empleado extends Persona3 {
+class Empleado2 extends Persona {
 
     public sueldo : number;
 
@@ -40,7 +40,7 @@ class Empleado extends Persona3 {
     }
 }
 
-const juan: Empleado = new Empleado("Juan", 45, 30000);
+const juan: Empleado2 = new Empleado2("Juan", 45, 30000);
 
 console.log(juan.edad, juan.nombre, juan.sueldo);
 

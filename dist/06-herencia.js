@@ -25,14 +25,14 @@ var Persona3 = /** @class */ (function () {
     };
     return Persona3;
 }());
-var Empleado = /** @class */ (function (_super) {
-    __extends(Empleado, _super);
-    function Empleado(nombre, edad, sueldo) {
+var Empleado2 = /** @class */ (function (_super) {
+    __extends(Empleado2, _super);
+    function Empleado2(nombre, edad, sueldo) {
         var _this = _super.call(this, nombre, edad) || this;
         _this.sueldo = sueldo;
         return _this;
     }
-    return Empleado;
-}(Persona3));
-var juan = new Empleado("Juan", 45, 30000);
+    return Empleado2;
+}(Persona));
+var juan = new Empleado2("Juan", 45, 30000);
 console.log(juan.edad, juan.nombre, juan.sueldo);
