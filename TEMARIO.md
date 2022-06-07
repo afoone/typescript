@@ -14,11 +14,12 @@
 - Usando comandos NPM para ejecución de scripts de proyecto
 
 # 3. SINTAXIS, VARIABLES Y PALABRAS RESERVADAS
-Tipado fuerte vs Tipado inferido
-Tipos de variables en TypeScript
-Palabras reservadas en TypeScript
-Creación de tipos propios en TypeScript
-Instalación e importación de librerías de terceros y tipos
+- Tipado fuerte vs Tipado inferido
+- Tipos de variables en TypeScript
+- Palabras reservadas en TypeScript
+- Creación de tipos propios en TypeScript
+- Instalación e importación de librerías de terceros y tipos
+  -  https://www.typescriptlang.org/docs/handbook/2/type-declarations.html
 
 # 4. ESTRUCTURAS DE CONTROL
 - Sentencias if-else Sentencia switch
