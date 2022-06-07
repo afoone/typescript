@@ -21,6 +21,8 @@ let cualquiera: any = ["hola"]
 
 let arr : Array<string> = ["hola", "adios"]
 
+
+
 //arr.push(1)
 
 // forma equivalente de definición de arrays
@@ -53,6 +55,11 @@ if (numero1===10) {
     console.log(numero1, numero2)
 }
 console.log(numero1, numero2)
+
+
+// Enumeraciones
+
+
 
 
 

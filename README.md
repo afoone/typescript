@@ -1,6 +1,15 @@
 # Curso TypeScript
 
 
+# narrowing
+
+https://www.codecademy.com/learn/learn-typescript/modules/learn-typescript-types/cheatsheet
+
+SOLID
+
+https://blog.bitsrc.io/solid-principles-in-typescript-153e6923ffdb 
+
+
 ## hola mundo
 
 instalar typescript (tsc)
