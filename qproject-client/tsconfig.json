@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "removeComments": false,
+    "outDir": "dist",
+    "target": "ES3",
+  },
+  "include": [
+    "src/**/*.ts" 
+  ], 
+  "exclude": [
+    "node_modules",
+    "**/*.test.ts"
+  ]
+}
