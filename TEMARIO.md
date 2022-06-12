@@ -85,8 +85,11 @@ https://medium.com/geekculture/html-event-handling-in-typescript-b9ca7178d912
 
 ## 11 DEBUGGING
 - Depuración de Typescript desde el IDE
+  https://pkief.medium.com/how-to-debug-typescript-with-vs-code-9cec93b4ae56
+  
 - Depuración de Typescript desde el navegador
 - Técnicas y buenas prácticas del console.log en la depuración
+  https://dmitripavlutin.com/console-log-tips/ 
 
 # Sesión 4
 
