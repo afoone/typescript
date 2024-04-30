@@ -86,7 +86,7 @@ https://medium.com/geekculture/html-event-handling-in-typescript-b9ca7178d912
 ## 11 DEBUGGING
 - Depuración de Typescript desde el IDE
   https://pkief.medium.com/how-to-debug-typescript-with-vs-code-9cec93b4ae56
-  
+
 - Depuración de Typescript desde el navegador
 - Técnicas y buenas prácticas del console.log en la depuración
   https://dmitripavlutin.com/console-log-tips/ 
@@ -94,6 +94,8 @@ https://medium.com/geekculture/html-event-handling-in-typescript-b9ca7178d912
 # Sesión 4
 
 ## 12 INICIACIÓN AL TESTING DE TYPESCRIPT
+https://blog.logrockmet.com/testing-typescript-apps-using-jest/
+
 ¿Qué son las pruebas de código?
 Tipos de pruebas
 Frameworks para el testing de TypeScript Introducción a Jest
@@ -105,13 +107,13 @@ Ejecutando pruebas en TypeScript Ejecutando pruebas asíncronas en TypeScript
 
 ## 13 SOLID Y PATRONES DE DISEÑO
 - Principios SOLID
+  https://blog.bitsrc.io/solid-principles-in-typescript-153e6923ffdb
 - Qué es un patrón de diseño?
 - ¿Por qué utilizar un patrón de diseño?
 - Clasificación de los patrones
 - Trabajando con patrones creacionales 
 - Trabajando con patrones estructurales 
 - Trabajando con patrones de comportamiento 
-- Trabajando con patrones asíncronos
 
 # Sesión 6
 
@@ -121,6 +123,12 @@ Ejecutando pruebas en TypeScript Ejecutando pruebas asíncronas en TypeScript
 - Nombrado
 
 ## 15 DOCUMENTACIÓN, MANTENIMIENTO Y ESLINT
+
+https://typedoc.org/guides/installation/
+
+https://mugan86.medium.com/eslint-en-typescript-paso-a-paso-ab2255321fd
+
+
 - ¿Qué es la documentación?
 - ¿Qué implica mantener software?
 - Formas de documentación en TypeScript

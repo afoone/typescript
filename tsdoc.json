@@ -1,0 +1,37 @@
+{
+	"tags":
+	{
+		"allowUnknownTags" : true
+	},
+	"plugins":[
+		 "plugins/markdown"
+		,"/Users/atienda/desarrollo/cursos/typescript/node_modules/tsdoc/template/plugins/TSDoc.js"
+	],
+	"opts":
+	{
+		"template"	:"/Users/atienda/desarrollo/cursos/typescript/node_modules/tsdoc/template",
+		"recurse"	:"true"
+	},
+	"templates" : {
+		"cleverLinks"     : false,
+		"monospaceLinks"  : false
+	},
+	"source":
+	{
+		"includePattern": "(\\.d)?\\.ts$"
+	},
+	"markdown"  : {
+		"parser"   : "gfm",
+		"hardwrap" : true
+	},
+	"tsdoc":{
+		"source"		:"/Users/atienda/desarrollo/cursos/typescript/src/",
+		"destination"	:"/Users/atienda/desarrollo/cursos/typescript/docs",
+		"tutorials"		:"",
+		"systemName"	: "typescript",
+		"footer"		: "",
+		"copyright"		: "typescript Copyright © 2022 atienda.",
+		"outputSourceFiles" : true,
+		"commentsOnly": true
+	}
+}
